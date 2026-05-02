@@ -9,6 +9,10 @@ View PPT: [https://canva.link/zyxfwo3kz4fpoq7](https://canva.link/zyxfwo3kz4fpoq
 
 ---
 
+## Project report
+
+View report: .[report](https://github.com/nazeer16es/memory-based-navigation-robot/blob/main/memory-based-navigation-robot-report.pdf)
+
 ## Overview
 
 This project implements a memory-based navigation robot using an ESP32 microcontroller. The robot is capable of learning a path through manual control and later repeating the same path autonomously without user intervention.
