@@ -114,3 +114,13 @@ The system uses motor encoders to record movement data such as distance and dire
 This project demonstrates encoder-based navigation, data-driven path learning, and autonomous motion control using ESP32. It provides a foundation for building advanced autonomous robotic systems.
 
 ---
+
+## Community services
+
+View : [Planting trees](
+https://github.com/nazeer16es/memory-based-navigation-robot/blob/main/SURE%20ProEd%20(1)/1.png)
+
+View : [Serving senior citizens](
+https://github.com/nazeer16es/memory-based-navigation-robot/blob/main/SURE%20ProEd%20(1)/2.png)
+
+
